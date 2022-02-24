@@ -11,6 +11,7 @@
 		3FFB9A5F27C69D0300A0AF7E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFB9A5E27C69D0300A0AF7E /* ContentView.swift */; };
 		3FFB9A6127C69D0A00A0AF7E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9A6027C69D0A00A0AF7E /* Assets.xcassets */; };
 		3FFB9A6427C69D0A00A0AF7E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FFB9A6327C69D0A00A0AF7E /* Preview Assets.xcassets */; };
+		3FFB9A6C27C7E80B00A0AF7E /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFB9A6B27C7E80B00A0AF7E /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		3FFB9A6027C69D0A00A0AF7E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FFB9A6327C69D0A00A0AF7E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3FFB9A6527C69D0A00A0AF7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3FFB9A6B27C7E80B00A0AF7E /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				3FFB9A5C27C69D0300A0AF7E /* _Za_HunterApp.swift */,
 				3FFB9A5E27C69D0300A0AF7E /* ContentView.swift */,
+				3FFB9A6B27C7E80B00A0AF7E /* LocationManager.swift */,
 				3FFB9A6027C69D0A00A0AF7E /* Assets.xcassets */,
 				3FFB9A6527C69D0A00A0AF7E /* Info.plist */,
 				3FFB9A6227C69D0A00A0AF7E /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				3FFB9A5F27C69D0300A0AF7E /* ContentView.swift in Sources */,
 				3FFB9A5D27C69D0300A0AF7E /* _Za_HunterApp.swift in Sources */,
+				3FFB9A6C27C7E80B00A0AF7E /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
